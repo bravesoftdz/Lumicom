@@ -1,0 +1,2 @@
+==== Lumicom config file ====
+12
